@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
--👯 I’m looking to collaborate on Open source Project<br>-💬 Ask me about Web Development<br>-📫 How to reach me k.niharika2206@gmail.com<br>- 😄 Pronouns: she/her<br>-⚡ Fun fact I think I am funny
+-👯 I’m looking to collaborate on Open source<br>-💬 Ask me about Web Development<br>-📫 How to reach me k.niharika2206@gmail.com<br>- 😄 Pronouns: she/her<br>-⚡ Fun fact I think I am funny
 
 
 
