@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
--👯 I’m looking to collaborate on Open source Projects<br>-💬 Ask me about Web Development<br>-📫 How to reach me k.niharika2206@gmail.com<br>- 😄 Pronouns: she/her<br>-⚡ Fun fact I think I am funny
+-👯 I’m looking to collaborate on Open source Project<br>-💬 Ask me about Web Development<br>-📫 How to reach me k.niharika2206@gmail.com<br>- 😄 Pronouns: she/her<br>-⚡ Fun fact I think I am funny
 
 
 
@@ -31,6 +31,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
