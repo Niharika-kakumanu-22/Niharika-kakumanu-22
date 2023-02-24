@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niharika Kakumanu</h1>
 
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="niharika-kakumanu-22" />
+<img align="right" src="https://github.com/Niharika-kakumanu-22/Niharika-kakumanu-22/blob/main/%E2%80%94Pngtree%E2%80%94work%20from%20home%20freelance%20enjoy_5344902.png" alt="niharika-kakumanu-22" height="500" width="500" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika-kakumanu-22&label=Profile%20views&color=0e75b6&style=flat" alt="niharika-kakumanu-22" /> </p>
